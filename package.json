@@ -7,5 +7,13 @@
     "test": "Examen"
   },
   "author": "Bryan Alejandro Aguilar Calderon",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryan24352/ExamenI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bryan24352/ExamenI/issues"
+  },
+  "homepage": "https://github.com/Bryan24352/ExamenI#readme"
 }
