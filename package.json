@@ -1,0 +1,11 @@
+{
+  "name": "plantilla-examen",
+  "version": "1.0.0",
+  "description": "\"Examen I de programacion IV\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "Examen"
+  },
+  "author": "Bryan Alejandro Aguilar Calderon",
+  "license": "ISC"
+}
